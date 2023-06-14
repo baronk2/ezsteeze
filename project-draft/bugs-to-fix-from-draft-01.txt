@@ -1,0 +1,113 @@
+bugs-to-fix-from-draft-01
+
+Bugs To Fix:
+
+Content and HTML Structure:
+
+1. ❌ [Canvas Checklist 1] The "About Us" link and the "Contact Us" link in the navigation bar do not work.
+2. ⚠️ [Week 5 Section Slide 4] Has meta description but the content is not good. It should be an introduction to your app as if it is shown on the search engine result page.
+3. ⚠️ [Week 5 Section Slide 5] Has meta author but the content is not the name of each member in the group.
+
+Site Style and CSS Structure:
+
+4. ❌ [Week 4 Section Slide 8] You should write all the style code in the CSS file. HTML is for the structure and CSS is for styles. Do not mix them. The usage of the style attribute in HTML files is not allowed.
+
+Accessibility:
+
+5. ❌ [Lighthouse] [equipment-db-options.html] The checkboxes did not have corresponding labels, making the screen reader not know what they are.
+6. ❌ [W3C HTML Validator] [rider-information.html] The `for` attribute of <label> needs to match the `id` attribute of <input>, not the `name` attribute.
+7. ❌ [Canvas Checklist 6] When using icon-only links, you need to have the `aria-label` attribute. Otherwise, the screen reader will read "<" and ">" as "smaller than" and "greater than", which is not what they mean in this context.
+8. ⚠️ For the "Rentals" dropdown in the navigation bar, it is a bad practice to have a hover effect to expand content. Currently, when using mouse, it can never reach the dropdown menu.
+
+Responsive Design:
+
+9. ❌ [Canvas Checklist 6] Page content is not polished on all screen sizes.
+- [equipment-db-options.html] The table goes beyond the screen width on mobile devices (DONE)
+- The navigation bar on some pages goes beyond the window width. 
+
+Clean Coding Style:
+
+10. ❌ [W3C HTML Validator] The paths should always be forward slash. Backslash is not allowed in website code regardless of what operating system you are using.
+11. ❌ [W3C HTML Validator, Canvas Checklist 2] <a> cannot appear as a descendant of <button>.
+12. ❌ [W3C HTML Validator, Canvas Checklist 2] [index.html: Line 52, gallery-1-temp.html: Line 52] "<" is a reserved character in HTML for tags. To have "<" as the content, you need to escape it as "&lt;", or it will make the HTML invalid.
+13. ❌ [W3C HTML Validator, Canvas Checklist 2] [previous-rental.html: Line 335] <p> is not allowed as child of <button>.
+14. ❌ [W3C HTML Validator, Canvas Checklist 2] [rider-information.html] <div>, <p> and <h1>-<h6> are not allowed as child of <label>.
+15. ❌ [Canvas Checklist 3, Week 4 Section Slide 8] Do not use ID selectors in CSS.
+16. ❌ [Lighthouse] [appointment-schedule.html] Loaded a non-existing image. See browser console.
+
+
+
+
+Original Notes
+
+
+Features Found:
+
+1. Booking.
+2. Manage equipment.
+3. Rider information.
+
+Content and HTML Structure:
+
+✅ Has favicon.
+✅ Includes the index.html file in the root folder.
+✅ The index.html is the main page.
+✅ Includes multiples pages with hyperlinks between them.
+✅ All pages linked to the same CSS file.
+✅ Has 3+ images.
+✅ Includes a <form> element.
+❌ [Canvas Checklist 1] The "About Us" link and the "Contact Us" link in the navigation bar do not work.
+⚠️ [Week 5 Section Slide 4] Has meta description but the content is not good. It should be an introduction to your app as if it is shown on the search engine result page.
+⚠️ [Week 5 Section Slide 5] Has meta author but the content is not the name of each member in the group.
+
+Site Style and CSS Structure:
+
+✅ Has sufficient number of CSS rules.
+✅ CSS changes color, font-size, margin, and padding.
+✅ Uses flex.
+✅ Has a polished appearance.
+❌ [Week 4 Section Slide 8] You should write all the style code in the CSS file. HTML is for the structure and CSS is for styles. Do not mix them. The usage of the style attribute in HTML files is not allowed.
+
+Accessibility:
+
+✅ Uses elements semantically.
+✅ Correctly uses sectioning elements.
+✅ Heading elements are in a sequentially-descending order.
+✅ <img> has the alt attribute.
+❌ [Lighthouse] [equipment-db-options.html] The checkboxes did not have corresponding labels, making the screen reader not know what they are.
+❌ [W3C HTML Validator] [rider-information.html] The `for` attribute of <label> needs to match the `id` attribute of <input>, not the `name` attribute.
+❌ [Canvas Checklist 6] When using icon-only links, you need to have the `aria-label` attribute. Otherwise, the screen reader will read "<" and ">" as "smaller than" and "greater than", which is not what they mean in this context.
+⚠️ For the "Rentals" dropdown in the navigation bar, it is a bad practice to have a hover effect to expand content. Currently, when using mouse, it can never reach the dropdown menu.
+
+Responsive Design:
+
+✅ Has meta viewport.
+✅ Has @media query.
+✅ CSS is mobile-first.
+✅ Styling changes on media and large screens.
+✅ Layout is noticeably and meaningfully different on different screen sizes.
+❌ [Canvas Checklist 6] Page content is not polished on all screen sizes.
+- [equipment-db-options.html] The table goes beyond the screen width on mobile devices.
+- The navigation bar on some pages goes beyond the window width.
+
+Clean Coding Style:
+
+✅ Files are organized in repo.
+✅ CSS has comments to "group" sets of rules.
+❌ [W3C HTML Validator] The paths should always be forward slash. Backslash is not allowed in website code regardless of what operating system you are using.
+❌ [W3C HTML Validator, Canvas Checklist 2] <a> cannot appear as a descendant of <button>.
+❌ [W3C HTML Validator, Canvas Checklist 2] [index.html: Line 52, gallery-1-temp.html: Line 52] "<" is a reserved character in HTML for tags. To have "<" as the content, you need to escape it as "&lt;", or it will make the HTML invalid.
+❌ [W3C HTML Validator, Canvas Checklist 2] [previous-rental.html: Line 335] <p> is not allowed as child of <button>.
+❌ [W3C HTML Validator, Canvas Checklist 2] [rider-information.html] <div>, <p> and <h1>-<h6> are not allowed as child of <label>.
+❌ [Canvas Checklist 3, Week 4 Section Slide 8] Do not use ID selectors in CSS.
+❌ [Lighthouse] [appointment-schedule.html] Loaded a non-existing image. See browser console.
+
+Published Site:
+
+✅ Site is published.
+
+Group Contribution:
+
+✅ All members committed.
+ 
+

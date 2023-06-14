@@ -1,0 +1,92 @@
+bugs-to-fix-from-draft-02
+
+Bugs To Fix:
+
+Run without Errors/Warnings:
+
+[DONE] 1. ❌ [Error in DevTools Console, Lighthouse] [AppointmentSchedule.js] The `class` attribute should be renamed to `className` in React, because `class` is a JavaScript reserved keyword.
+2. ⚠️ [Error in DevTools Console] The bootstrap link returns 404 Not Found, meaning that it has no effect on the page, which should be deleted.
+
+React Components:
+
+3. ⚠️ [EquipmentSelection.js] Should use Array and .map to generate <option> to reduce redundancy.
+[DONE] 4. ⚠️ You only need to import the CSS file once in `index.js`. You do not need to import it in every component.
+[DONE] 5. ⚠️ [index.js: Line 1] "use strict" is unnecessary inside of modules. React uses modules.
+[DONE] 6. ❌ [Error in DevTools Console, Lighthouse] [AppointmentSchedule.js: Line 6] There cannot be any <body> tag in React code! React will automatically inject HTML code into the <body> part of the template file `public/index.html`. It is not allowed to have <body> in <body>.
+
+Interactivity:
+
+7. ❌ [EquipmentSelection.js: Line 1565-1581] Should set the state as an array to reduce redundancy.
+8. ❌ [EquipmentSelection.js] Should use a for loop to generate <option> to reduce redundancy.
+
+HTML/CSS:
+
+[DONE] 9. ❌ [Error in DevTools Console, Lighthouse] [EquipmentSelection.js] <label> `for` attribute in React should be `htmlFor`, not `forHTML`.
+[DONE] 10. ❌ [index.css: Line 1] `index *` is matching anything inside <index> tags, but <index> is not a valid HTML tag.
+11. ❌ UI is not polished on some pages.
+12. ⚠️ The header on mobile devices overlaps with the main content.
+13. ⚠️ Navigation bar is missing on mobile devices, causing mobile users not able to navigate.
+
+Draft 1 Fixes:
+
+14. ❌ [Issue Since Draft 1, Week 4 Section Slide 8] [EquipmentSelection.js] You should write all the style code in the CSS file. HTML is for the structure and CSS is for styles. Do not mix them. The usage of the style attribute in HTML is not allowed.
+[DONE] 15. ❌ [Issue Since Draft 1] [AppointmentSchedule.js: Line 95, Footer.js: Line 7] The paths should always be forward slash. Backslash is not allowed in website code regardless of what operating system you are using.
+[DONE] 16. ❌ [Issue Since Draft 1, Week 4 Section Slide 8] Do not use ID selectors in CSS.
+[DONE] 17. ⚠️ [Issue Since Draft 1] For the "Rentals" dropdown in the navigation bar, it is a bad practice to have a hover effect to expand content. Currently, when using mouse, it can never reach the dropdown menu.
+
+
+
+
+Original Notes
+
+
+Run without Errors/Warnings:
+
+✅ The app runs.
+❌ [Error in DevTools Console, Lighthouse] [AppointmentSchedule.js] The `class` attribute should be renamed to `className` in React, because `class` is a JavaScript reserved keyword.
+⚠️ [Error in DevTools Console] The bootstrap link returns 404 Not Found, meaning that it has no effect on the page, which should be deleted.
+
+React Components:
+
+✅ Has 90% of components implemented.
+⚠️ [EquipmentSelection.js] Should use Array and .map to generate <option> to reduce redundancy.
+⚠️ You only need to import the CSS file once in `index.js`. You do not need to import it in every component.
+⚠️ [index.js: Line 1] "use strict" is unnecessary inside of modules. React uses modules.
+❌ [Error in DevTools Console, Lighthouse] [AppointmentSchedule.js: Line 6] There cannot be any <body> tag in React code! React will automatically inject HTML code into the <body> part of the template file `public/index.html`. It is not allowed to have <body> in <body>.
+
+Interactivity:
+
+✅ At least 1 interactivity.
+❌ [EquipmentSelection.js: Line 1565-1581] Should set the state as an array to reduce redundancy.
+❌ [EquipmentSelection.js] Should use a for loop to generate <option> to reduce redundancy.
+
+HTML/CSS:
+
+✅ Has meta description.
+✅ Has meta author.
+✅ Has favicon.
+✅ README has app description.
+❌ [Error in DevTools Console, Lighthouse] [EquipmentSelection.js] <label> `for` attribute in React should be `htmlFor`, not `forHTML`.
+❌ [index.css: Line 1] `index *` is matching anything inside <index> tags, but <index> is not a valid HTML tag.
+❌ UI is not polished on some pages.
+⚠️ The header on mobile devices overlaps with the main content.
+⚠️ Navigation bar is missing on mobile devices, causing mobile users not able to navigate.
+
+Firebase Hosting:
+
+✅ Published on Firebase.
+
+GitHub Commit History:
+
+✅ Everyone committed.
+
+Draft 1 Fixes:
+
+✅ Fixed meta description.
+✅ Fixed aria-label.
+✅ Fixed <a> in <button>.
+✅ Fixed "<" and ">" escaping.
+❌ [Issue Since Draft 1, Week 4 Section Slide 8] [EquipmentSelection.js] You should write all the style code in the CSS file. HTML is for the structure and CSS is for styles. Do not mix them. The usage of the style attribute in HTML is not allowed.
+❌ [Issue Since Draft 1] [AppointmentSchedule.js: Line 95, Footer.js: Line 7] The paths should always be forward slash. Backslash is not allowed in website code regardless of what operating system you are using.
+❌ [Issue Since Draft 1, Week 4 Section Slide 8] Do not use ID selectors in CSS.
+⚠️ [Issue Since Draft 1] For the "Rentals" dropdown in the navigation bar, it is a bad practice to have a hover effect to expand content. Currently, when using mouse, it can never reach the dropdown menu.

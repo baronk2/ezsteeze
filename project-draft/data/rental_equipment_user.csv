@@ -1,0 +1,301 @@
+rental_equipment_uid,name,height,weight,age,release_preference,angle_settings,direction
+1,Ana Maria,,,,,15 & 9,Goofy
+2,Jethro,68,169,64,II,,
+3,Yvette,52,147,20,III,,
+4,Madison,62,158,51,II,,
+5,Katie,55,92,21,I,,
+6,Zephyr,,,,,15 & 9,Goofy
+7,Jolene,66,121,54,I,,
+8,Miguel,58,93,24,II,,
+9,Nell,51,74,18,II,,
+10,Sofia,,,,,15 & 9,Regular
+11,Clio,50,130,19,III,,
+12,Uri Fernandez,60,116,46,II,,
+13,Ulysses,68,168,49,II,,
+14,Zara,66,132,46,II,,
+15,Xavi,57,104,34,II,,
+16,Philippa,56,116,37,III,,
+17,Hattie,64,159,49,II,,
+18,David,,,,,15 & 9,Goofy
+19,Niamh,,,,,15 & 9,Regular
+20,Celeste,61,121,39,I,,
+21,Aaliyah,,,,,15 & 9,Regular
+22,Roscoe,,,,,12 & 12,Neutral
+23,Sybil Shah,54,138,24,II,,
+24,Matthew,,,,,15 & 9,Regular
+25,Leif,64,135,39,I,,
+26,Xavi Ramirez,46,112,11,I,,
+27,Zia,62,177,51,II,,
+28,Tamsin,66,117,37,II,,
+29,Natalie,46,84,11,II,,
+30,Emilia,,,,,15 & 6,Regular
+31,Alessio,66,183,51,II,,
+32,Zinnia,67,163,59,I,,
+33,Henley,58,157,29,I,,
+34,Evangeline,60,169,35,II,,
+35,Caleb,64,193,55,I,,
+36,Dasha,57,107,36,II,,
+37,Tiberius,67,204,56,II,,
+38,Ana,,,,,15 & 9,Regular
+39,Marcel,,,,,9 & 9,Neutral
+40,Quin,61,175,31,II,,
+41,Ginevra,63,151,48,I,,
+42,William,53,137,30,III,,
+43,Sarah,,,,,15 & 9,Goofy
+44,Kaida,50,72,15,III,,
+45,Omar Singh,,,,,12 & 12,Neutral
+46,Niklas,61,175,38,I,,
+47,James,,,,,15 & 15,Neutral
+48,Philippa,,,,,15 & 9,Goofy
+49,Xiomara,,,,,15 & 9,Goofy
+50,Christopher,,,,,15 & 9,Regular
+51,Margot,65,176,48,III,,
+52,Jasper,,,,,15 & 15,Neutral
+53,Yelena,,,,,15 & 9,Regular
+54,Xan,68,128,40,II,,
+55,Lina,46,68,11,III,,
+56,Elio,,,,,9 & 9,Neutral
+57,Quin,,,,,15 & 6,Regular
+58,Owen,,,,,15 & 9,Goofy
+59,Willa,60,129,29,I,,
+60,Paloma,68,197,46,II,,
+61,Whitney,62,155,46,II,,
+62,Orla,51,136,23,II,,
+63,Thiago,73,180,46,II,,
+64,Lysander,48,66,15,II,,
+65,Lennox,64,146,50,I,,
+66,Zain,47,102,12,III,,
+67,Quincy,70,162,57,I,,
+68,Cosmo,61,175,34,I,,
+69,Isaac,65,189,58,II,,
+70,Aisha,48,98,16,II,,
+71,Cedric,68,122,46,II,,
+72,Oisin,49,113,13,III,,
+73,Hugo,64,140,49,II,,
+74,Hadley,48,113,16,I,,
+75,Ashley,,,,,15 & 9,Goofy
+76,Esmeralda,65,140,53,II,,
+77,Roscoe,,,,,12 & 12,Neutral
+78,Harper,67,176,45,I,,
+79,Muhammad,67,201,46,I,,
+80,Soren,,,,,15 & 6,Regular
+81,Uma,,,,,15 & 6,Goofy
+82,Santiago,,,,,15 & 9,Goofy
+83,Larkin,67,192,54,II,,
+84,Sebastian,,,,,12 & 12,Neutral
+85,Darian,49,99,19,II,,
+86,Otis,63,122,50,II,,
+87,Olivia,,,,,12 & 12,Neutral
+88,Valentin,,,,,15 & 9,Goofy
+89,Nour,42,83,5,II,,
+90,Kai,61,143,29,II,,
+91,Emilio,,,,,12 & 12,Neutral
+92,Yusuf,,,,,15 & 6,Regular
+93,Amir,63,128,33,III,,
+94,Indigo,,,,,15 & 9,Goofy
+95,Ysabel,52,108,23,III,,
+96,Xandra,62,171,49,III,,
+97,Maxim,56,83,32,I,,
+98,Delaney,61,170,46,II,,
+99,Ida,,,,,15 & 15,Neutral
+100,Persephone,,,,,15 & 6,Goofy
+101,Calantha,46,69,11,II,,
+102,Willem,49,103,18,III,,
+103,Olivia,,,,,15 & 9,Regular
+104,Marcel,,,,,15 & 9,Goofy
+105,Io,63,149,45,III,,
+106,Matteo,68,185,63,II,,
+107,Scout,,,,,15 & 6,Goofy
+108,Leah,,,,,15 & 9,Regular
+109,Clio,68,123,38,I,,
+110,Isadora,63,172,41,I,,
+111,Phoenix,58,168,37,III,,
+112,Fabian,71,178,46,I,,
+113,Evangeline,49,100,19,I,,
+114,Juniper,70,221,54,II,,
+115,Cameron,65,157,39,I,,
+116,Julia,47,75,13,II,,
+117,Kian,63,164,52,I,,
+118,October,72,135,44,I,,
+119,Saskia,,,,,15 & 6,Goofy
+120,Noah,76,250,79,I,,
+121,Wilder,,,,,15 & 9,Goofy
+122,Quade,55,127,33,II,,
+123,Fawn,,,,,15 & 9,Regular
+124,Sybil,,,,,15 & 9,Regular
+125,Archer,62,152,41,I,,
+126,Cedric,64,178,33,II,,
+127,Briar,62,176,46,III,,
+128,Kato,57,157,33,II,,
+129,Charlotte,63,188,32,II,,
+130,Nell,,,,,15 & 6,Regular
+131,Vega,,,,,15 & 6,Goofy
+132,Calantha,63,170,50,II,,
+133,Ophelia,63,191,41,II,,
+134,Kian,58,115,38,I,,
+135,Graham,72,225,58,II,,
+136,Joshua,64,181,35,II,,
+137,Bridget,78,262,65,II,,
+138,Zephyr,49,94,17,II,,
+139,Renata,66,189,38,II,,
+140,Elio,50,105,23,I,,
+141,Nathaniel,45,75,12,I,,
+142,Jakob,,,,,15 & 6,Regular
+143,Vance,50,71,17,II,,
+144,Kai,,,,,15 & 9,Regular
+145,Ida,61,182,37,II,,
+146,Fawn,55,82,21,II,,
+147,Isaac,,,,,15 & 6,Regular
+148,Samuel,61,138,43,II,,
+149,Ethan,,,,,15 & 9,Regular
+150,Nabil,62,157,33,II,,
+151,Federico,66,122,53,II,,
+152,Dasha,48,114,15,III,,
+153,Anais,66,126,56,I,,
+154,Ulysses,54,154,22,III,,
+155,Emilio Martinez,56,156,30,II,,
+156,Briar,62,194,32,II,,
+157,Zinnia,53,145,25,II,,
+158,Tiberius,55,140,34,I,,
+159,Christopher,60,143,35,III,,
+160,Jasper,,,,,12 & 12,Neutral
+161,Esmeralda,63,172,48,I,,
+162,Soren,,,,,15 & 9,Regular
+163,Bridget,62,193,36,I,,
+164,Sophia,,,,,15 & 6,Regular
+165,Zain,71,193,66,I,,
+166,Archer,70,154,51,II,,
+167,Margot,,,,,15 & 9,Regular
+168,Thalia,,,,,15 & 9,Regular
+169,Otis Florendo,55,114,33,I,,
+170,Niamh,,,,,15 & 6,Regular
+171,Isabella,59,105,41,I,,
+172,Xiomara,60,140,34,II,,
+173,Quinlan,,,,,15 & 15,Neutral
+174,Una,,,,,15 & 9,Goofy
+175,Xandra,60,139,31,II,,
+176,Ainsley,68,220,43,II,,
+177,John Florendo,,,,,15 & 0,Goofy
+178,Indigo,,,,,15 & 9,Regular
+179,Phoenix,,,,,15 & 6,Goofy
+180,Elena,49,110,19,II,,
+181,Xanthe,,,,,12 & 12,Neutral
+182,Delaney,,,,,15 & 6,Goofy
+183,Isabella,66,153,36,I,,
+184,Lysander,,,,,15 & 9,Regular
+185,Bailey,52,133,18,II,,
+186,Fianna,65,143,46,II,,
+187,Alejandra,50,115,22,I,,
+188,Finn,71,147,72,III,,
+189,Celeste,57,101,30,II,,
+190,Una,,,,,15 & 6,Goofy
+191,Kaya,,,,,15 & 9,Regular
+192,Sasha,65,118,51,I,,
+193,Valeria,,,,,15 & 9,Regular
+194,Adair,,,,,15 & 9,Goofy
+195,Valentin,,,,,15 & 6,Regular
+196,Matteo Lewis,,,,,15 & 9,Regular
+197,Uma,55,81,30,II,,
+198,Porter,74,171,79,I,,
+199,Xan,,,,,15 & 6,Goofy
+200,Kaida,,,,,15 & 9,Goofy
+201,Bailey,,,,,15 & 6,Goofy
+202,Leif,,,,,15 & 6,Regular
+203,Gabriella,64,118,48,I,,
+204,Nia,58,92,24,II,,
+205,Victoria,66,158,54,II,,
+206,Rafael,68,150,60,III,,
+207,Henley,53,74,22,I,,
+208,Jethro,,,,,15 & 6,Goofy
+209,Willem,74,231,78,II,,
+210,Benoit,69,212,66,II,,
+211,Zara,59,123,35,II,,
+212,Vega,63,115,44,II,,
+213,Xanthe,,,,,15 & 6,Goofy
+214,Neve,47,117,11,II,,
+215,Yara,60,152,39,I,,
+216,Michael,59,128,27,II,,
+217,Marius,59,135,30,II,,
+218,Damon,65,181,34,I,,
+219,Hadley,,,,,15 & 6,Regular
+220,Linus,51,99,19,II,,
+221,Wolfgang,66,179,57,II,,
+222,Scarlett,,,,,15 & 9,Goofy
+223,Marwa,68,169,38,III,,
+224,Quentin,59,99,40,II,,
+225,Neve,62,167,30,III,,
+226,Tahlia,69,143,46,II,,
+227,Larkin,68,146,56,II,,
+228,Graham,63,111,34,III,,
+229,Ginevra,55,161,32,II,,
+230,Wolfgang Young,,,,,15 & 9,Goofy
+231,Ahmed,63,116,44,I,,
+232,Viola,67,162,42,II,,
+233,Ophelia,67,173,45,III,,
+234,Brandon,,,,,15 & 9,Regular
+235,Fianna Walker,68,217,39,II,,
+236,Amelie Martinez,65,167,49,I,,
+237,Renata,56,135,28,II,,
+238,Emma,,,,,15 & 9,Regular
+239,Rhea,53,95,25,I,,
+240,Harlow,,,,,15 & 15,Neutral
+241,Gabriel,60,150,32,III,,
+242,Harlow,,,,,9 & 9,Neutral
+243,Tamsin,,,,,15 & 9,Regular
+244,Tavi,,,,,15 & 6,Goofy
+245,Elias,67,211,61,I,,
+246,Jagger,,,,,15 & 9,Regular
+247,Io,,,,,15 & 9,Goofy
+248,Maren,,,,,15 & 9,Goofy
+249,Whitney,71,193,63,II,,
+250,Leonardo,53,116,25,III,,
+251,Logan,65,120,34,I,,
+252,Tavi,,,,,12 & 12,Neutral
+253,Marius,66,198,59,III,,
+254,Nova,,,,,12 & 12,Neutral
+255,Quade Patel,,,,,15 & 6,Goofy
+256,Jacob,55,120,25,III,,
+257,Samantha,65,141,48,I,,
+258,Oisin,55,118,31,I,,
+259,Rio,66,181,53,I,,
+260,Greyson Phillips,66,201,40,I,,
+261,Sasha,56,163,23,I,,
+262,Dante,,,,,15 & 6,Regular
+263,Thalia,55,93,28,II,,
+264,Amelia,67,169,51,II,,
+265,Maria,74,175,66,I,,
+266,Scout,64,170,37,I,,
+267,Anaya,58,133,35,II,,
+268,Iman,59,114,33,II,,
+269,Gideon,,,,,15 & 9,Regular
+270,Vance,63,158,47,II,,
+271,Joseph,,,,,15 & 9,Goofy
+272,Darian,,,,,15 & 9,Goofy
+273,Yvette,59,121,32,II,,
+274,Mustafa,54,119,21,III,,
+275,Penelope,65,116,36,I,,
+276,Greyson,,,,,15 & 6,Goofy
+277,Emily,,,,,15 & 9,Regular
+278,Roan,60,165,39,I,,
+279,Cosmo,69,140,65,I,,
+280,Kaya,57,125,35,II,,
+281,Porter,65,133,47,III,,
+282,Umaiza,51,109,16,I,,
+283,Omar,67,189,53,I,,
+284,Elias,,,,,12 & 12,Neutral
+285,Hattie,64,138,39,II,,
+286,Audrey,57,99,23,I,,
+287,Sofia,66,206,59,II,,
+288,Balthazar Davis,,,,,15 & 6,Regular
+289,Nia,,,,,15 & 9,Goofy
+290,Nova,67,181,45,III,,
+291,Malika Lee,72,207,49,I,,
+292,Viola,53,146,24,II,,
+293,Galen,77,230,85,II,,
+294,Quinlan,,,,,15 & 6,Goofy
+295,Balthazar,60,165,38,I,,
+296,Alessia,59,154,31,II,,
+297,Ruby,70,204,46,II,,
+298,Benoit,62,127,38,I,,
+299,Yara,75,251,63,I,,
+300,Layla,,,,,15 & 6,Regular

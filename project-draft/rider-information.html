@@ -1,0 +1,1301 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand&family=Raleway&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
+  <meta name="description" content="Final Project Static Mock-Up">
+  <meta name="author" content="INFO 340 Group BA4">
+  <title>ezSteeze | Rider Information</title>
+
+  <!-- Link to Bootstrap 5.1.3 -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css">
+
+  <link href="css/style.css" rel="stylesheet">
+
+  <!-- For proper behavior from `@media` queries in CSS -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- favicon -->
+  <link rel="icon" type="image/ico" href="icons/pias-recycle-logo-favicon.ico">
+</head>
+
+<body>
+  <header>
+    <nav>
+      <img src="img\pias__logo.svg" id="PIAS-logo" alt="Play It Again Sports logo" draggable="false">
+      <ul>
+        <li><a href="index.html">HOME</a></li>
+        <li class="menu-item"><a href="appointment-schedule.html">RENTALS</a>
+          <ul class="submenu">
+            <li><a href="appointment-schedule.html">SKIING</a></li>
+            <li><a href="appointment-schedule.html">SNOWBOARDING</a></li>
+            <li><a href="appointment-schedule.html">PADDLEBOARDING</a></li>
+          </ul>
+        </li>
+  
+        <li><a href="index.html">GALLERY</a></li>
+        <li><a href="#">ABOUT US</a></li>
+        <li><a href="#">CONTACT US</a></li>
+        <li><a href="reserve-equipment.html" id="book-now-nav">BOOK NOW!</a></li>
+      </ul>
+    </nav>
+  </header>
+
+
+  <main>
+    <div class="container">
+      <form>
+        <div class="row info justify-content-center">
+          <div class="col col-md-8 mx-auto">
+            <h1 class="page-title">
+              User Info
+            </h1>
+            <div class="info-text rider-information-info-text">
+              <p>
+                We just need some info to:
+              </p>
+              <p>
+                1. Show you the best options!
+              </p>
+              <p>
+                2. Get everything set up safely.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="row sport-selection justify-content-center">
+          <div class="col col-md-4 d-block input-section justify-content-center">
+            <div>
+              <label for="sport">
+                <h2 class="info section-title">
+                  Sport
+                </h2>
+                <p class="info info-text">
+                  Which sport(s) do you want to rent equipment for?
+                </p>
+              </label>
+            </div>
+            <div class="col col-md-4 mx-auto">
+              <div class="input-option">
+                <label>
+                  <input type="checkbox" id="snowboard" name="sport" value="snowboard">
+                  Snowboard
+                </label>
+              </div>
+              <div class="input-option">
+                <label>
+                  <input type="checkbox" id="ski" name="sport" value="ski">
+                  Ski
+                </label>
+              </div>
+              <div class="input-option">
+                <label>
+                  <input type="checkbox" id="snowshoe" name="sport" value="snowshoe">
+                  Snowshoe
+                </label>
+              </div>
+              <div class="input-option">
+                <label>
+                  <input type="checkbox" id="paddleboard" name="sport" value="paddleboard">
+                  Paddleboard
+                </label>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row info justify-content-center">
+          <div class="col col-md-5 mx-auto">
+            <div class="info-text">
+              <p>
+                If you're skiing or snowboarding, we'll need just a bit more info...
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="row snowboard-ski-setting-selection justify-content-center mx-auto">
+          <div class="col col-md-4 snowboard-setting-selection">
+            <h2 class="info section-title">
+              Snowboarder
+            </h2>
+            <div class="input-section border-top">
+              <label for="snowboard-direction" class="d-block">
+                <h3 class="info input-section-title">
+                  Direction
+                </h3>
+              </label>
+              <div>
+                <div class="input-option">
+                  <label>
+                    <input type="radio" id="regular" name="snowboard-direction" value="regular">
+                    Regular
+                    <p class="input-option-additional-info">
+                      (left foot forward)
+                    </p>
+                  </label>
+                </div>
+                <div class="input-option">
+                  <label>
+                    <input type="radio" id="neutral" name="snowboard-direction" value="neutral">
+                    Neutral
+                    <p class="input-option-additional-info">
+                      (either/both ways - aka "Switch")
+                    </p>
+                  </label>
+                </div>
+                <div class="input-option">
+                  <label>
+                    <input type="radio" id="goofy" name="snowboard-direction" value="goofy">
+                    Goofy
+                    <p class="input-option-additional-info">
+                      (right foot forward)
+                    </p>
+                  </label>
+                </div>
+              </div>
+            </div>
+            
+            <div class="input-section border-top">
+              <h3 class="info input-section-title">
+                Binding Angles
+              </h3>
+              <div class="info info-text">
+                <p>
+                  Positive (+): points down the mountain as you ride.
+                </p>
+                <p>
+                  Negative (-): points backward up the mountain as you ride.
+                </p>
+                <p>
+                  For reference, Front +15 degrees / Back -9 degrees is fairly normal for a directional setup.
+                </p>
+              </div>
+              
+              <div class="input-section border-top">
+                <label for="front-binding-angle">
+                  <h4 class="info input-section-title binding-angle-input-section-title">
+                    Front Binding Angle
+                  </h4>
+                </label>
+                <div>
+                  <span>  
+                    <select id="front-binding-angle" name="front-binding-angle">
+                      <option value="x0">
+                        0
+                      </option>
+                      <option value="positive-3">
+                        +3
+                      </option>
+                      <option value="positive-6">
+                        +6
+                      </option>
+                      <option value="positive-9">
+                        +9
+                      </option>
+                      <option value="positive-12">
+                        +12
+                      </option>
+                      <option value="positive-15" selected>
+                        +15
+                      </option>
+                      <option value="positive-18">
+                        +18
+                      </option>
+                      <option value="positive-21">
+                        +21
+                      </option>
+                      <option value="positive-24">
+                        +24
+                      </option>
+                      <option value="positive-27">
+                        +27
+                      </option>
+                      <option value="positive-30">
+                        +30
+                      </option>
+                      <option value="positive-33">
+                        +33
+                      </option>
+                      <option value="positive-36">
+                        +36
+                      </option>
+                      <option value="positive-39">
+                        +39
+                      </option>
+                      <option value="positive-42">
+                        +42
+                      </option>
+                      <option value="positive-45">
+                        +45
+                      </option>
+                      <option value="positive-48">
+                        +48
+                      </option>
+                      <option value="positive-51">
+                        +51
+                      </option>
+                      <option value="positive-54">
+                        +54
+                      </option>
+                      <option value="positive-57">
+                        +57
+                      </option>
+                      <option value="positive-60">
+                        +60
+                      </option>
+                      <option value="positive-63">
+                        +63
+                      </option>
+                      <option value="positive-66">
+                        +66
+                      </option>
+                      <option value="positive-69">
+                        +69
+                      </option>
+                      <option value="positive-72">
+                        +72
+                      </option>
+                      <option value="positive-75">
+                        +75
+                      </option>
+                      <option value="positive-78">
+                        +78
+                      </option>
+                      <option value="positive-81">
+                        +81
+                      </option>
+                      <option value="positive-84">
+                        +84
+                      </option>
+                      <option value="positive-87">
+                        +87
+                      </option>
+                      <option value="positive-90">
+                        +90
+                      </option>
+                    </select>
+                    degrees
+                  </span>
+                </div>
+              </div>
+              
+              
+              <div class="input-section border-top">
+                <label for="back-binding-angle">
+                  <h4 class="info input-section-title binding-angle-input-section-title">
+                    Back Binding Angle
+                  </h4>
+                </label>
+                <div>
+                  <span>
+                    <select id="back-binding-angle" name="back-binding-angle">
+                      <option value="negative-90">
+                        -90
+                      </option>
+                      <option value="negative-87">
+                        -87
+                      </option>
+                      <option value="negative-84">
+                        -84
+                      </option>
+                      <option value="negative-81">
+                        -81
+                      </option>
+                      <option value="negative-78">
+                        -78
+                      </option>
+                      <option value="negative-75">
+                        -75
+                      </option>
+                      <option value="negative-72">
+                        -72
+                      </option>
+                      <option value="negative-69">
+                        -69
+                      </option>
+                      <option value="negative-66">
+                        -66
+                      </option>
+                      <option value="negative-63">
+                        -63
+                      </option>
+                      <option value="negative-60">
+                        -60
+                      </option>
+                      <option value="negative-57">
+                        -57
+                      </option>
+                      <option value="negative-54">
+                        -54
+                      </option>
+                      <option value="negative-51">
+                        -51
+                      </option>
+                      <option value="negative-48">
+                        -48
+                      </option>
+                      <option value="negative-45">
+                        -45
+                      </option>
+                      <option value="negative-42">
+                        -42
+                      </option>
+                      <option value="negative-39">
+                        -39
+                      </option>
+                      <option value="negative-36">
+                        -36
+                      </option>
+                      <option value="negative-33">
+                        -33
+                      </option>
+                      <option value="negative-30">
+                        -30
+                      </option>
+                      <option value="negative-27">
+                        -27
+                      </option>
+                      <option value="negative-24">
+                        -24
+                      </option>
+                      <option value="negative-21">
+                        -21
+                      </option>
+                      <option value="negative-18">
+                        -18
+                      </option>
+                      <option value="negative-15">
+                        -15
+                      </option>
+                      <option value="negative-12">
+                        -12
+                      </option>
+                      <option value="negative-9" selected>
+                        -9
+                      </option>
+                      <option value="negative-6">
+                        -6
+                      </option>
+                      <option value="negative-3">
+                        -3
+                      </option>
+                      <option value="x0">
+                        0
+                      </option>
+                      <option value="positive-3">
+                        +3
+                      </option>
+                      <option value="positive-6">
+                        +6
+                      </option>
+                      <option value="positive-9">
+                        +9
+                      </option>
+                      <option value="positive-12">
+                        +12
+                      </option>
+                      <option value="positive-15">
+                        +15
+                      </option>
+                      <option value="positive-18">
+                        +18
+                      </option>
+                      <option value="positive-21">
+                        +21
+                      </option>
+                      <option value="positive-24">
+                        +24
+                      </option>
+                      <option value="positive-27">
+                        +27
+                      </option>
+                      <option value="positive-30">
+                        +30
+                      </option>
+                      <option value="positive-33">
+                        +33
+                      </option>
+                      <option value="positive-36">
+                        +36
+                      </option>
+                      <option value="positive-39">
+                        +39
+                      </option>
+                      <option value="positive-42">
+                        +42
+                      </option>
+                      <option value="positive-45">
+                        +45
+                      </option>
+                      <option value="positive-48">
+                        +48
+                      </option>
+                      <option value="positive-51">
+                        +51
+                      </option>
+                      <option value="positive-54">
+                        +54
+                      </option>
+                      <option value="positive-57">
+                        +57
+                      </option>
+                      <option value="positive-60">
+                        +60
+                      </option>
+                      <option value="positive-63">
+                        +63
+                      </option>
+                      <option value="positive-63">
+                        +63
+                      </option>
+                      <option value="positive-66">
+                        +66
+                      </option>
+                      <option value="positive-69">
+                        +69
+                      </option>
+                      <option value="positive-72">
+                        +72
+                      </option>
+                      <option value="positive-75">
+                        +75
+                      </option>
+                      <option value="positive-78">
+                        +78
+                      </option>
+                      <option value="positive-81">
+                        +81
+                      </option>
+                      <option value="positive-84">
+                        +84
+                      </option>
+                      <option value="positive-87">
+                        +87
+                      </option>
+                      <option value="positive-90">
+                        +90
+                      </option>
+                    </select>
+                    degrees
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col col-md-4 ski-setting-selection">
+            <div class="input-section">
+              <h2 class="info section-title">
+                Skier
+              </h2>
+  
+              <div class="input-section text-center border-top">
+                <label for="height">
+                  <h3 class="info input-section-title">
+                    Height
+                  </h3>
+                </label>
+                <div>
+                  <select id="height" name="height">
+                    <option value="less-than-4-10">
+                      &lt;4&#39; 10&quot;
+                    </option>
+                    <option value="x4-11">
+                      4&#39; 11&quot;
+                    </option>
+                    <option value="x5-0">
+                      5&#39; 0&quot;
+                    </option>
+                    <option value="x5-1">
+                      5&#39; 1&quot;
+                    </option>
+                    <option value="x5-2">
+                      5&#39; 2&quot;
+                    </option>
+                    <option value="x5-3">
+                      5&#39; 3&quot;
+                    </option>
+                    <option value="x5-4">
+                      5&#39; 4&quot;
+                    </option>
+                    <option value="x5-5">
+                      5&#39; 5&quot;
+                    </option>
+                    <option value="x5-6" selected>
+                      5&#39; 6&quot;
+                    </option>
+                    <option value="x5-7">
+                      5&#39; 7&quot;
+                    </option>
+                    <option value="x5-8">
+                      5&#39; 8&quot;
+                    </option>
+                    <option value="x5-9">
+                      5&#39; 9&quot;
+                    </option>
+                    <option value="x5-10">
+                      5&#39; 10&quot;
+                    </option>
+                    <option value="x5-11">
+                      5&#39; 11&quot;
+                    </option>
+                    <option value="x6-0">
+                      6&#39; 0&quot;
+                    </option>
+                    <option value="x6-1">
+                      6&#39; 1&quot;
+                    </option>
+                    <option value="x6-2">
+                      6&#39; 2&quot;
+                    </option>
+                    <option value="x6-3">
+                      6&#39; 3&quot;
+                    </option>
+                    <option value="x6-4">
+                      6&#39; 4&quot;
+                    </option>
+                    <option value="greater-than-or-equal-to-6-5">
+                      &ge; 6&#39; 5&quot;
+                    </option>
+                  </select>
+                </div>
+              </div>
+              
+              
+              <div class="input-section text-center border-top">
+                <label for="weight">
+                  <h3 class="info input-section-title">
+                    Weight
+                  </h3>
+                </label>
+                <div>
+                  <span>
+                    <select name="weight" id="weight">
+                      <option value="less-than-22">
+                        &lt;22
+                      </option>
+                      <option value="x22">
+                        22
+                      </option>
+                      <option value="x23">
+                        23
+                      </option>
+                      <option value="x24">
+                        24
+                      </option>
+                      <option value="x25">
+                        25
+                      </option>
+                      <option value="x26">
+                        26
+                      </option>
+                      <option value="x27">
+                        27
+                      </option>
+                      <option value="x28">
+                        28
+                      </option>
+                      <option value="x29">
+                        29
+                      </option>
+                      <option value="x30">
+                        30
+                      </option>
+                      <option value="x31">
+                        31
+                      </option>
+                      <option value="x32">
+                        32
+                      </option>
+                      <option value="x33">
+                        33
+                      </option>
+                      <option value="x34">
+                        34
+                      </option>
+                      <option value="x35">
+                        35
+                      </option>
+                      <option value="x36">
+                        36
+                      </option>
+                      <option value="x37">
+                        37
+                      </option>
+                      <option value="x38">
+                        38
+                      </option>
+                      <option value="x39">
+                        39
+                      </option>
+                      <option value="x40">
+                        40
+                      </option>
+                      <option value="x41">
+                        41
+                      </option>
+                      <option value="x42">
+                        42
+                      </option>
+                      <option value="x43">
+                        43
+                      </option>
+                      <option value="x44">
+                        44
+                      </option>
+                      <option value="x45">
+                        45
+                      </option>
+                      <option value="x46">
+                        46
+                      </option>
+                      <option value="x47">
+                        47
+                      </option>
+                      <option value="x48">
+                        48
+                      </option>
+                      <option value="x49">
+                        49
+                      </option>
+                      <option value="x50">
+                        50
+                      </option>
+                      <option value="x51">
+                        51
+                      </option>
+                      <option value="x52">
+                        52
+                      </option>
+                      <option value="x53">
+                        53
+                      </option>
+                      <option value="x54">
+                        54
+                      </option>
+                      <option value="x55">
+                        55
+                      </option>
+                      <option value="x56">
+                        56
+                      </option>
+                      <option value="x57">
+                        57
+                      </option>
+                      <option value="x58">
+                        58
+                      </option>
+                      <option value="x59">
+                        59
+                      </option>
+                      <option value="x60">
+                        60
+                      </option>
+                      <option value="x61">
+                        61
+                      </option>
+                      <option value="x62">
+                        62
+                      </option>
+                      <option value="x63">
+                        63
+                      </option>
+                      <option value="x64">
+                        64
+                      </option>
+                      <option value="x65">
+                        65
+                      </option>
+                      <option value="x66">
+                        66
+                      </option>
+                      <option value="x67">
+                        67
+                      </option>
+                      <option value="x68">
+                        68
+                      </option>
+                      <option value="x69">
+                        69
+                      </option>
+                      <option value="x70">
+                        70
+                      </option>
+                      <option value="x71">
+                        71
+                      </option>
+                      <option value="x72">
+                        72
+                      </option>
+                      <option value="x73">
+                        73
+                      </option>
+                      <option value="x74">
+                        74
+                      </option>
+                      <option value="x75">
+                        75
+                      </option>
+                      <option value="x76">
+                        76
+                      </option>
+                      <option value="x77">
+                        77
+                      </option>
+                      <option value="x78">
+                        78
+                      </option>
+                      <option value="x79">
+                        79
+                      </option>
+                      <option value="x80">
+                        80
+                      </option>
+                      <option value="x81">
+                        81
+                      </option>
+                      <option value="x82">
+                        82
+                      </option>
+                      <option value="x83">
+                        83
+                      </option>
+                      <option value="x84">
+                        84
+                      </option>
+                      <option value="x85">
+                        85
+                      </option>
+                      <option value="x86">
+                        86
+                      </option>
+                      <option value="x87">
+                        87
+                      </option>
+                      <option value="x88">
+                        88
+                      </option>
+                      <option value="x89">
+                        89
+                      </option>
+                      <option value="x90">
+                        90
+                      </option>
+                      <option value="x91">
+                        91
+                      </option>
+                      <option value="x92">
+                        92
+                      </option>
+                      <option value="x93">
+                        93
+                      </option>
+                      <option value="x94">
+                        94
+                      </option>
+                      <option value="x95">
+                        95
+                      </option>
+                      <option value="x96">
+                        96
+                      </option>
+                      <option value="x97">
+                        97
+                      </option>
+                      <option value="x98">
+                        98
+                      </option>
+                      <option value="x99">
+                        99
+                      </option>
+                      <option value="x100">
+                        100
+                      </option>
+                      <option value="x101">
+                        101
+                      </option>
+                      <option value="x102">
+                        102
+                      </option>
+                      <option value="x103">
+                        103
+                      </option>
+                      <option value="x104">
+                        104
+                      </option>
+                      <option value="x105">
+                        105
+                      </option>
+                      <option value="x106">
+                        106
+                      </option>
+                      <option value="x107">
+                        107
+                      </option>
+                      <option value="x108">
+                        108
+                      </option>
+                      <option value="x109">
+                        109
+                      </option>
+                      <option value="x110">
+                        110
+                      </option>
+                      <option value="x111">
+                        111
+                      </option>
+                      <option value="x112">
+                        112
+                      </option>
+                      <option value="x113">
+                        113
+                      </option>
+                      <option value="x114">
+                        114
+                      </option>
+                      <option value="x115">
+                        115
+                      </option>
+                      <option value="x116">
+                        116
+                      </option>
+                      <option value="x117">
+                        117
+                      </option>
+                      <option value="x118">
+                        118
+                      </option>
+                      <option value="x119">
+                        119
+                      </option>
+                      <option value="x120">
+                        120
+                      </option>
+                      <option value="x121">
+                        121
+                      </option>
+                      <option value="x122">
+                        122
+                      </option>
+                      <option value="x123">
+                        123
+                      </option>
+                      <option value="x124">
+                        124
+                      </option>
+                      <option value="x125">
+                        125
+                      </option>
+                      <option value="x126">
+                        126
+                      </option>
+                      <option value="x127">
+                        127
+                      </option>
+                      <option value="x128">
+                        128
+                      </option>
+                      <option value="x129">
+                        129
+                      </option>
+                      <option value="x130">
+                        130
+                      </option>
+                      <option value="x131">
+                        131
+                      </option>
+                      <option value="x132">
+                        132
+                      </option>
+                      <option value="x133">
+                        133
+                      </option>
+                      <option value="x134">
+                        134
+                      </option>
+                      <option value="x135">
+                        135
+                      </option>
+                      <option value="x136">
+                        136
+                      </option>
+                      <option value="x137">
+                        137
+                      </option>
+                      <option value="x138">
+                        138
+                      </option>
+                      <option value="x139">
+                        139
+                      </option>
+                      <option value="x140" selected>
+                        140
+                      </option>
+                      <option value="x141">
+                        141
+                      </option>
+                      <option value="x142">
+                        142
+                      </option>
+                      <option value="x143">
+                        143
+                      </option>
+                      <option value="x144">
+                        144
+                      </option>
+                      <option value="x145">
+                        145
+                      </option>
+                      <option value="x146">
+                        146
+                      </option>
+                      <option value="x147">
+                        147
+                      </option>
+                      <option value="x148">
+                        148
+                      </option>
+                      <option value="x149">
+                        149
+                      </option>
+                      <option value="x150">
+                        150
+                      </option>
+                      <option value="x151">
+                        151
+                      </option>
+                      <option value="x152">
+                        152
+                      </option>
+                      <option value="x153">
+                        153
+                      </option>
+                      <option value="x154">
+                        154
+                      </option>
+                      <option value="x155">
+                        155
+                      </option>
+                      <option value="x156">
+                        156
+                      </option>
+                      <option value="x157">
+                        157
+                      </option>
+                      <option value="x158">
+                        158
+                      </option>
+                      <option value="x159">
+                        159
+                      </option>
+                      <option value="x160">
+                        160
+                      </option>
+                      <option value="x161">
+                        161
+                      </option>
+                      <option value="x162">
+                        162
+                      </option>
+                      <option value="x163">
+                        163
+                      </option>
+                      <option value="x164">
+                        164
+                      </option>
+                      <option value="x165">
+                        165
+                      </option>
+                      <option value="x166">
+                        166
+                      </option>
+                      <option value="x167">
+                        167
+                      </option>
+                      <option value="x168">
+                        168
+                      </option>
+                      <option value="x169">
+                        169
+                      </option>
+                      <option value="x170">
+                        170
+                      </option>
+                      <option value="x171">
+                        171
+                      </option>
+                      <option value="x172">
+                        172
+                      </option>
+                      <option value="x173">
+                        173
+                      </option>
+                      <option value="x174">
+                        174
+                      </option>
+                      <option value="x175">
+                        175
+                      </option>
+                      <option value="x176">
+                        176
+                      </option>
+                      <option value="x177">
+                        177
+                      </option>
+                      <option value="x178">
+                        178
+                      </option>
+                      <option value="x179">
+                        179
+                      </option>
+                      <option value="x180">
+                        180
+                      </option>
+                      <option value="x181">
+                        181
+                      </option>
+                      <option value="x182">
+                        182
+                      </option>
+                      <option value="x183">
+                        183
+                      </option>
+                      <option value="x184">
+                        184
+                      </option>
+                      <option value="x185">
+                        185
+                      </option>
+                      <option value="x186">
+                        186
+                      </option>
+                      <option value="x187">
+                        187
+                      </option>
+                      <option value="x188">
+                        188
+                      </option>
+                      <option value="x189">
+                        189
+                      </option>
+                      <option value="x190">
+                        190
+                      </option>
+                      <option value="x191">
+                        191
+                      </option>
+                      <option value="x192">
+                        192
+                      </option>
+                      <option value="x193">
+                        193
+                      </option>
+                      <option value="x194">
+                        194
+                      </option>
+                      <option value="x195">
+                        195
+                      </option>
+                      <option value="x196">
+                        196
+                      </option>
+                      <option value="x197">
+                        197
+                      </option>
+                      <option value="x198">
+                        198
+                      </option>
+                      <option value="x199">
+                        199
+                      </option>
+                      <option value="x200">
+                        200
+                      </option>
+                      <option value="x201">
+                        201
+                      </option>
+                      <option value="x202">
+                        202
+                      </option>
+                      <option value="x203">
+                        203
+                      </option>
+                      <option value="x204">
+                        204
+                      </option>
+                      <option value="x205">
+                        205
+                      </option>
+                      <option value="x206">
+                        206
+                      </option>
+                      <option value="x207">
+                        207
+                      </option>
+                      <option value="x208">
+                        208
+                      </option>
+                      <option value="x209">
+                        209
+                      </option>
+                      <option value="greater-than-or-equal-to-210">
+                        210+
+                      </option>
+                    </select>
+                    lbs
+                  </span>
+                </div>
+              </div>
+  
+              <div class="input-section text-center border-top">
+                <label for="age">
+                  <h3 class="info input-section-title">
+                    Age
+                  </h3>
+                </label>
+                <div>
+                  <span>
+                    <select id="age" name="age">
+                      <option value="less-than-10">
+                        &lt;10
+                      </option>
+                      <option value="x10-to-49" selected>
+                        10-49
+                      </option>
+                      <option value="greater-than-or-equal-to-50">
+                        50+
+                      </option>
+                    </select>
+                    years old
+                  </span>
+                </div>
+              </div>
+  
+              <div class="input-section border-top">
+                <label for="release-preference" class="d-block">
+                  <div class="info input-section-title text-center release-preference-input-section-title">
+                    <h3>
+                      Release Preference
+                    </h3>
+                    <h4>
+                      aka "Skier Type"
+                    </h4>
+                  </div>
+                </label>
+                <div>
+                  <div class="input-option">
+                    <label>
+                      <input type="radio" id="i-minus" name="release-preference" value="i-minus">
+                      I-
+                      <p class="input-option-additional-info">
+                        Less common: for some beginners where extra caution is needed
+                      </p>
+                    </label>
+                  </div>
+                  <div class="input-option">
+                    <label>
+                      <input type="radio" id="i" name="release-preference" value="i">
+                      I
+                      <p class="input-option-additional-info">
+                        Less aggressive skiing: often corresponds with beginners
+                      </p>
+                    </label>
+                  </div>
+                  <div class="input-option">
+                    <label>
+                      <input type="radio" id="ii" name="release-preference" value="ii">
+                      II
+                      <p class="input-option-additional-info">
+                        Moderately aggressive skiing: often corresponds with intermediate-level skiers
+                      </p>
+                    </label>
+                  </div>
+                  <div class="input-option">
+                    <label>
+                      <input type="radio" id="iii" name="release-preference" value="iii">
+                      III
+                      <p class="input-option-additional-info">
+                        Aggressive skiing: often corresponds with advanced skiers riding difficult terrain
+                      </p>
+                    </label>
+                  </div>
+                  <div class="input-option">
+                    <label>
+                      <input type="radio" id="iii-plus" name="release-preference" value="iii-plus">
+                      III+
+                      <p class="input-option-additional-info">
+                        Most aggressive skiing: for certain experts on extreme terrain
+                      </p>
+                    </label>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="row">
+          <div class="col col-md-4 mx-auto input-section">
+            <h2 class="info input-section-title">
+              Notes
+            </h2>
+            <label for="notes" class="info">
+              Anything else for us to know about how you want your rental set up?
+            </label>
+            <div class="input-section">
+              <textarea name="notes" id="notes" cols="40" rows="3"></textarea>
+            </div>
+            <p class="thank-you">
+              Thank you!
+            </p>
+          </div>
+        </div>
+        <div class="row mb-5">
+          <div class="col col-md-4 d-flex mx-auto">
+            <a href="equipment-db-options.html">
+              <div class="card card-rounded text-center">
+                <div class="card-body">
+                  <div class="col">
+                    <div class="row justify-content-center">
+                      <div class="col-6 mx-auto">
+                        <img src="icons/snowboard.png" alt="Snowboard" class="mx-auto d-inline img-fluid card-image-two-icons">
+                      </div>
+                      <div class="col-6 mx-auto">
+                        <img src="icons/ski.png" alt="Pair of skis and pair of ski poles" class="mx-auto d-inline img-fluid card-image-two-icons">
+                      </div> 
+                    </div>
+                    <button class="card-text btn btn-primary mt-3">
+                      See Options!
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </form>
+    </div>
+  </main>
+
+
+  <footer class="appointment-footer">
+    <img class="pias_logo" src="img\pias__logo.svg" alt="Play It Again Sports Logo">
+    <p>
+      Play It Again Sports is a registered trademark of Winmark Corporation © based in Minneapolis, MN. Each franchise is independently owned and operated. Other brand names are trademarked or registered by their respective companies. The trademarks and logos used in this website are owned by Winmark Corporation © and any unauthorized use of these trademarks by others is subject to action under federal and state trademark laws.
+    </p>
+    <p>
+      <a href="https://www.flaticon.com/free-icons/snowboard" title="snowboard icons">
+        Snowboard icons created by juicy_fish - Flaticon
+      </a>
+    </p>
+    <p>
+      <a href="https://www.flaticon.com/free-icons/skiing" title="skiing icons">
+        Skiing icons created by Freepik - Flaticon
+      </a>
+    </p>
+  </footer>
+</body>
+
+</html>

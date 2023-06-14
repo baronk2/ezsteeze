@@ -1,0 +1,3002 @@
+[
+  {
+    "rental_equipment_uid": 1,
+    "name": "Ana Maria",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 2,
+    "name": "Jethro",
+    "height": 68,
+    "weight": 169,
+    "age": 64,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 3,
+    "name": "Yvette",
+    "height": 52,
+    "weight": 147,
+    "age": 20,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 4,
+    "name": "Madison",
+    "height": 62,
+    "weight": 158,
+    "age": 51,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 5,
+    "name": "Katie",
+    "height": 55,
+    "weight": 92,
+    "age": 21,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 6,
+    "name": "Zephyr",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 7,
+    "name": "Jolene",
+    "height": 66,
+    "weight": 121,
+    "age": 54,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 8,
+    "name": "Miguel",
+    "height": 58,
+    "weight": 93,
+    "age": 24,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 9,
+    "name": "Nell",
+    "height": 51,
+    "weight": 74,
+    "age": 18,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 10,
+    "name": "Sofia",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 11,
+    "name": "Clio",
+    "height": 50,
+    "weight": 130,
+    "age": 19,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 12,
+    "name": "Uri Fernandez",
+    "height": 60,
+    "weight": 116,
+    "age": 46,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 13,
+    "name": "Ulysses",
+    "height": 68,
+    "weight": 168,
+    "age": 49,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 14,
+    "name": "Zara",
+    "height": 66,
+    "weight": 132,
+    "age": 46,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 15,
+    "name": "Xavi",
+    "height": 57,
+    "weight": 104,
+    "age": 34,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 16,
+    "name": "Philippa",
+    "height": 56,
+    "weight": 116,
+    "age": 37,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 17,
+    "name": "Hattie",
+    "height": 64,
+    "weight": 159,
+    "age": 49,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 18,
+    "name": "David",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 19,
+    "name": "Niamh",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 20,
+    "name": "Celeste",
+    "height": 61,
+    "weight": 121,
+    "age": 39,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 21,
+    "name": "Aaliyah",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 22,
+    "name": "Roscoe",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "12 & 12",
+    "direction": "Neutral"
+  },
+  {
+    "rental_equipment_uid": 23,
+    "name": "Sybil Shah",
+    "height": 54,
+    "weight": 138,
+    "age": 24,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 24,
+    "name": "Matthew",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 25,
+    "name": "Leif",
+    "height": 64,
+    "weight": 135,
+    "age": 39,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 26,
+    "name": "Xavi Ramirez",
+    "height": 46,
+    "weight": 112,
+    "age": 11,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 27,
+    "name": "Zia",
+    "height": 62,
+    "weight": 177,
+    "age": 51,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 28,
+    "name": "Tamsin",
+    "height": 66,
+    "weight": 117,
+    "age": 37,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 29,
+    "name": "Natalie",
+    "height": 46,
+    "weight": 84,
+    "age": 11,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 30,
+    "name": "Emilia",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 31,
+    "name": "Alessio",
+    "height": 66,
+    "weight": 183,
+    "age": 51,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 32,
+    "name": "Zinnia",
+    "height": 67,
+    "weight": 163,
+    "age": 59,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 33,
+    "name": "Henley",
+    "height": 58,
+    "weight": 157,
+    "age": 29,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 34,
+    "name": "Evangeline",
+    "height": 60,
+    "weight": 169,
+    "age": 35,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 35,
+    "name": "Caleb",
+    "height": 64,
+    "weight": 193,
+    "age": 55,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 36,
+    "name": "Dasha",
+    "height": 57,
+    "weight": 107,
+    "age": 36,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 37,
+    "name": "Tiberius",
+    "height": 67,
+    "weight": 204,
+    "age": 56,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 38,
+    "name": "Ana",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 39,
+    "name": "Marcel",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "9 & 9",
+    "direction": "Neutral"
+  },
+  {
+    "rental_equipment_uid": 40,
+    "name": "Quin",
+    "height": 61,
+    "weight": 175,
+    "age": 31,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 41,
+    "name": "Ginevra",
+    "height": 63,
+    "weight": 151,
+    "age": 48,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 42,
+    "name": "William",
+    "height": 53,
+    "weight": 137,
+    "age": 30,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 43,
+    "name": "Sarah",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 44,
+    "name": "Kaida",
+    "height": 50,
+    "weight": 72,
+    "age": 15,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 45,
+    "name": "Omar Singh",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "12 & 12",
+    "direction": "Neutral"
+  },
+  {
+    "rental_equipment_uid": 46,
+    "name": "Niklas",
+    "height": 61,
+    "weight": 175,
+    "age": 38,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 47,
+    "name": "James",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 15",
+    "direction": "Neutral"
+  },
+  {
+    "rental_equipment_uid": 48,
+    "name": "Philippa",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 49,
+    "name": "Xiomara",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 50,
+    "name": "Christopher",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 51,
+    "name": "Margot",
+    "height": 65,
+    "weight": 176,
+    "age": 48,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 52,
+    "name": "Jasper",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 15",
+    "direction": "Neutral"
+  },
+  {
+    "rental_equipment_uid": 53,
+    "name": "Yelena",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 54,
+    "name": "Xan",
+    "height": 68,
+    "weight": 128,
+    "age": 40,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 55,
+    "name": "Lina",
+    "height": 46,
+    "weight": 68,
+    "age": 11,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 56,
+    "name": "Elio",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "9 & 9",
+    "direction": "Neutral"
+  },
+  {
+    "rental_equipment_uid": 57,
+    "name": "Quin",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 58,
+    "name": "Owen",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 59,
+    "name": "Willa",
+    "height": 60,
+    "weight": 129,
+    "age": 29,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 60,
+    "name": "Paloma",
+    "height": 68,
+    "weight": 197,
+    "age": 46,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 61,
+    "name": "Whitney",
+    "height": 62,
+    "weight": 155,
+    "age": 46,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 62,
+    "name": "Orla",
+    "height": 51,
+    "weight": 136,
+    "age": 23,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 63,
+    "name": "Thiago",
+    "height": 73,
+    "weight": 180,
+    "age": 46,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 64,
+    "name": "Lysander",
+    "height": 48,
+    "weight": 66,
+    "age": 15,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 65,
+    "name": "Lennox",
+    "height": 64,
+    "weight": 146,
+    "age": 50,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 66,
+    "name": "Zain",
+    "height": 47,
+    "weight": 102,
+    "age": 12,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 67,
+    "name": "Quincy",
+    "height": 70,
+    "weight": 162,
+    "age": 57,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 68,
+    "name": "Cosmo",
+    "height": 61,
+    "weight": 175,
+    "age": 34,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 69,
+    "name": "Isaac",
+    "height": 65,
+    "weight": 189,
+    "age": 58,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 70,
+    "name": "Aisha",
+    "height": 48,
+    "weight": 98,
+    "age": 16,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 71,
+    "name": "Cedric",
+    "height": 68,
+    "weight": 122,
+    "age": 46,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 72,
+    "name": "Oisin",
+    "height": 49,
+    "weight": 113,
+    "age": 13,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 73,
+    "name": "Hugo",
+    "height": 64,
+    "weight": 140,
+    "age": 49,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 74,
+    "name": "Hadley",
+    "height": 48,
+    "weight": 113,
+    "age": 16,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 75,
+    "name": "Ashley",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 76,
+    "name": "Esmeralda",
+    "height": 65,
+    "weight": 140,
+    "age": 53,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 77,
+    "name": "Roscoe",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "12 & 12",
+    "direction": "Neutral"
+  },
+  {
+    "rental_equipment_uid": 78,
+    "name": "Harper",
+    "height": 67,
+    "weight": 176,
+    "age": 45,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 79,
+    "name": "Muhammad",
+    "height": 67,
+    "weight": 201,
+    "age": 46,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 80,
+    "name": "Soren",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 81,
+    "name": "Uma",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 82,
+    "name": "Santiago",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 83,
+    "name": "Larkin",
+    "height": 67,
+    "weight": 192,
+    "age": 54,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 84,
+    "name": "Sebastian",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "12 & 12",
+    "direction": "Neutral"
+  },
+  {
+    "rental_equipment_uid": 85,
+    "name": "Darian",
+    "height": 49,
+    "weight": 99,
+    "age": 19,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 86,
+    "name": "Otis",
+    "height": 63,
+    "weight": 122,
+    "age": 50,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 87,
+    "name": "Olivia",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "12 & 12",
+    "direction": "Neutral"
+  },
+  {
+    "rental_equipment_uid": 88,
+    "name": "Valentin",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 89,
+    "name": "Nour",
+    "height": 42,
+    "weight": 83,
+    "age": 5,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 90,
+    "name": "Kai",
+    "height": 61,
+    "weight": 143,
+    "age": 29,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 91,
+    "name": "Emilio",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "12 & 12",
+    "direction": "Neutral"
+  },
+  {
+    "rental_equipment_uid": 92,
+    "name": "Yusuf",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 93,
+    "name": "Amir",
+    "height": 63,
+    "weight": 128,
+    "age": 33,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 94,
+    "name": "Indigo",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 95,
+    "name": "Ysabel",
+    "height": 52,
+    "weight": 108,
+    "age": 23,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 96,
+    "name": "Xandra",
+    "height": 62,
+    "weight": 171,
+    "age": 49,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 97,
+    "name": "Maxim",
+    "height": 56,
+    "weight": 83,
+    "age": 32,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 98,
+    "name": "Delaney",
+    "height": 61,
+    "weight": 170,
+    "age": 46,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 99,
+    "name": "Ida",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 15",
+    "direction": "Neutral"
+  },
+  {
+    "rental_equipment_uid": 100,
+    "name": "Persephone",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 101,
+    "name": "Calantha",
+    "height": 46,
+    "weight": 69,
+    "age": 11,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 102,
+    "name": "Willem",
+    "height": 49,
+    "weight": 103,
+    "age": 18,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 103,
+    "name": "Olivia",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 104,
+    "name": "Marcel",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 105,
+    "name": "Io",
+    "height": 63,
+    "weight": 149,
+    "age": 45,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 106,
+    "name": "Matteo",
+    "height": 68,
+    "weight": 185,
+    "age": 63,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 107,
+    "name": "Scout",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 108,
+    "name": "Leah",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 109,
+    "name": "Clio",
+    "height": 68,
+    "weight": 123,
+    "age": 38,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 110,
+    "name": "Isadora",
+    "height": 63,
+    "weight": 172,
+    "age": 41,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 111,
+    "name": "Phoenix",
+    "height": 58,
+    "weight": 168,
+    "age": 37,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 112,
+    "name": "Fabian",
+    "height": 71,
+    "weight": 178,
+    "age": 46,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 113,
+    "name": "Evangeline",
+    "height": 49,
+    "weight": 100,
+    "age": 19,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 114,
+    "name": "Juniper",
+    "height": 70,
+    "weight": 221,
+    "age": 54,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 115,
+    "name": "Cameron",
+    "height": 65,
+    "weight": 157,
+    "age": 39,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 116,
+    "name": "Julia",
+    "height": 47,
+    "weight": 75,
+    "age": 13,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 117,
+    "name": "Kian",
+    "height": 63,
+    "weight": 164,
+    "age": 52,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 118,
+    "name": "October",
+    "height": 72,
+    "weight": 135,
+    "age": 44,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 119,
+    "name": "Saskia",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 120,
+    "name": "Noah",
+    "height": 76,
+    "weight": 250,
+    "age": 79,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 121,
+    "name": "Wilder",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 122,
+    "name": "Quade",
+    "height": 55,
+    "weight": 127,
+    "age": 33,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 123,
+    "name": "Fawn",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 124,
+    "name": "Sybil",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 125,
+    "name": "Archer",
+    "height": 62,
+    "weight": 152,
+    "age": 41,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 126,
+    "name": "Cedric",
+    "height": 64,
+    "weight": 178,
+    "age": 33,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 127,
+    "name": "Briar",
+    "height": 62,
+    "weight": 176,
+    "age": 46,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 128,
+    "name": "Kato",
+    "height": 57,
+    "weight": 157,
+    "age": 33,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 129,
+    "name": "Charlotte",
+    "height": 63,
+    "weight": 188,
+    "age": 32,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 130,
+    "name": "Nell",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 131,
+    "name": "Vega",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 132,
+    "name": "Calantha",
+    "height": 63,
+    "weight": 170,
+    "age": 50,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 133,
+    "name": "Ophelia",
+    "height": 63,
+    "weight": 191,
+    "age": 41,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 134,
+    "name": "Kian",
+    "height": 58,
+    "weight": 115,
+    "age": 38,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 135,
+    "name": "Graham",
+    "height": 72,
+    "weight": 225,
+    "age": 58,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 136,
+    "name": "Joshua",
+    "height": 64,
+    "weight": 181,
+    "age": 35,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 137,
+    "name": "Bridget",
+    "height": 78,
+    "weight": 262,
+    "age": 65,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 138,
+    "name": "Zephyr",
+    "height": 49,
+    "weight": 94,
+    "age": 17,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 139,
+    "name": "Renata",
+    "height": 66,
+    "weight": 189,
+    "age": 38,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 140,
+    "name": "Elio",
+    "height": 50,
+    "weight": 105,
+    "age": 23,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 141,
+    "name": "Nathaniel",
+    "height": 45,
+    "weight": 75,
+    "age": 12,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 142,
+    "name": "Jakob",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 143,
+    "name": "Vance",
+    "height": 50,
+    "weight": 71,
+    "age": 17,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 144,
+    "name": "Kai",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 145,
+    "name": "Ida",
+    "height": 61,
+    "weight": 182,
+    "age": 37,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 146,
+    "name": "Fawn",
+    "height": 55,
+    "weight": 82,
+    "age": 21,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 147,
+    "name": "Isaac",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 148,
+    "name": "Samuel",
+    "height": 61,
+    "weight": 138,
+    "age": 43,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 149,
+    "name": "Ethan",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 150,
+    "name": "Nabil",
+    "height": 62,
+    "weight": 157,
+    "age": 33,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 151,
+    "name": "Federico",
+    "height": 66,
+    "weight": 122,
+    "age": 53,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 152,
+    "name": "Dasha",
+    "height": 48,
+    "weight": 114,
+    "age": 15,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 153,
+    "name": "Anais",
+    "height": 66,
+    "weight": 126,
+    "age": 56,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 154,
+    "name": "Ulysses",
+    "height": 54,
+    "weight": 154,
+    "age": 22,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 155,
+    "name": "Emilio Martinez",
+    "height": 56,
+    "weight": 156,
+    "age": 30,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 156,
+    "name": "Briar",
+    "height": 62,
+    "weight": 194,
+    "age": 32,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 157,
+    "name": "Zinnia",
+    "height": 53,
+    "weight": 145,
+    "age": 25,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 158,
+    "name": "Tiberius",
+    "height": 55,
+    "weight": 140,
+    "age": 34,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 159,
+    "name": "Christopher",
+    "height": 60,
+    "weight": 143,
+    "age": 35,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 160,
+    "name": "Jasper",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "12 & 12",
+    "direction": "Neutral"
+  },
+  {
+    "rental_equipment_uid": 161,
+    "name": "Esmeralda",
+    "height": 63,
+    "weight": 172,
+    "age": 48,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 162,
+    "name": "Soren",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 163,
+    "name": "Bridget",
+    "height": 62,
+    "weight": 193,
+    "age": 36,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 164,
+    "name": "Sophia",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 165,
+    "name": "Zain",
+    "height": 71,
+    "weight": 193,
+    "age": 66,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 166,
+    "name": "Archer",
+    "height": 70,
+    "weight": 154,
+    "age": 51,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 167,
+    "name": "Margot",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 168,
+    "name": "Thalia",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 169,
+    "name": "Otis Florendo",
+    "height": 55,
+    "weight": 114,
+    "age": 33,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 170,
+    "name": "Niamh",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 171,
+    "name": "Isabella",
+    "height": 59,
+    "weight": 105,
+    "age": 41,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 172,
+    "name": "Xiomara",
+    "height": 60,
+    "weight": 140,
+    "age": 34,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 173,
+    "name": "Quinlan",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 15",
+    "direction": "Neutral"
+  },
+  {
+    "rental_equipment_uid": 174,
+    "name": "Una",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 175,
+    "name": "Xandra",
+    "height": 60,
+    "weight": 139,
+    "age": 31,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 176,
+    "name": "Ainsley",
+    "height": 68,
+    "weight": 220,
+    "age": 43,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 177,
+    "name": "John Florendo",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 0",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 178,
+    "name": "Indigo",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 179,
+    "name": "Phoenix",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 180,
+    "name": "Elena",
+    "height": 49,
+    "weight": 110,
+    "age": 19,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 181,
+    "name": "Xanthe",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "12 & 12",
+    "direction": "Neutral"
+  },
+  {
+    "rental_equipment_uid": 182,
+    "name": "Delaney",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 183,
+    "name": "Isabella",
+    "height": 66,
+    "weight": 153,
+    "age": 36,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 184,
+    "name": "Lysander",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 185,
+    "name": "Bailey",
+    "height": 52,
+    "weight": 133,
+    "age": 18,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 186,
+    "name": "Fianna",
+    "height": 65,
+    "weight": 143,
+    "age": 46,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 187,
+    "name": "Alejandra",
+    "height": 50,
+    "weight": 115,
+    "age": 22,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 188,
+    "name": "Finn",
+    "height": 71,
+    "weight": 147,
+    "age": 72,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 189,
+    "name": "Celeste",
+    "height": 57,
+    "weight": 101,
+    "age": 30,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 190,
+    "name": "Una",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 191,
+    "name": "Kaya",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 192,
+    "name": "Sasha",
+    "height": 65,
+    "weight": 118,
+    "age": 51,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 193,
+    "name": "Valeria",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 194,
+    "name": "Adair",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 195,
+    "name": "Valentin",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 196,
+    "name": "Matteo Lewis",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 197,
+    "name": "Uma",
+    "height": 55,
+    "weight": 81,
+    "age": 30,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 198,
+    "name": "Porter",
+    "height": 74,
+    "weight": 171,
+    "age": 79,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 199,
+    "name": "Xan",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 200,
+    "name": "Kaida",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 201,
+    "name": "Bailey",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 202,
+    "name": "Leif",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 203,
+    "name": "Gabriella",
+    "height": 64,
+    "weight": 118,
+    "age": 48,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 204,
+    "name": "Nia",
+    "height": 58,
+    "weight": 92,
+    "age": 24,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 205,
+    "name": "Victoria",
+    "height": 66,
+    "weight": 158,
+    "age": 54,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 206,
+    "name": "Rafael",
+    "height": 68,
+    "weight": 150,
+    "age": 60,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 207,
+    "name": "Henley",
+    "height": 53,
+    "weight": 74,
+    "age": 22,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 208,
+    "name": "Jethro",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 209,
+    "name": "Willem",
+    "height": 74,
+    "weight": 231,
+    "age": 78,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 210,
+    "name": "Benoit",
+    "height": 69,
+    "weight": 212,
+    "age": 66,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 211,
+    "name": "Zara",
+    "height": 59,
+    "weight": 123,
+    "age": 35,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 212,
+    "name": "Vega",
+    "height": 63,
+    "weight": 115,
+    "age": 44,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 213,
+    "name": "Xanthe",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 214,
+    "name": "Neve",
+    "height": 47,
+    "weight": 117,
+    "age": 11,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 215,
+    "name": "Yara",
+    "height": 60,
+    "weight": 152,
+    "age": 39,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 216,
+    "name": "Michael",
+    "height": 59,
+    "weight": 128,
+    "age": 27,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 217,
+    "name": "Marius",
+    "height": 59,
+    "weight": 135,
+    "age": 30,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 218,
+    "name": "Damon",
+    "height": 65,
+    "weight": 181,
+    "age": 34,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 219,
+    "name": "Hadley",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 220,
+    "name": "Linus",
+    "height": 51,
+    "weight": 99,
+    "age": 19,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 221,
+    "name": "Wolfgang",
+    "height": 66,
+    "weight": 179,
+    "age": 57,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 222,
+    "name": "Scarlett",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 223,
+    "name": "Marwa",
+    "height": 68,
+    "weight": 169,
+    "age": 38,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 224,
+    "name": "Quentin",
+    "height": 59,
+    "weight": 99,
+    "age": 40,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 225,
+    "name": "Neve",
+    "height": 62,
+    "weight": 167,
+    "age": 30,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 226,
+    "name": "Tahlia",
+    "height": 69,
+    "weight": 143,
+    "age": 46,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 227,
+    "name": "Larkin",
+    "height": 68,
+    "weight": 146,
+    "age": 56,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 228,
+    "name": "Graham",
+    "height": 63,
+    "weight": 111,
+    "age": 34,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 229,
+    "name": "Ginevra",
+    "height": 55,
+    "weight": 161,
+    "age": 32,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 230,
+    "name": "Wolfgang Young",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 231,
+    "name": "Ahmed",
+    "height": 63,
+    "weight": 116,
+    "age": 44,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 232,
+    "name": "Viola",
+    "height": 67,
+    "weight": 162,
+    "age": 42,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 233,
+    "name": "Ophelia",
+    "height": 67,
+    "weight": 173,
+    "age": 45,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 234,
+    "name": "Brandon",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 235,
+    "name": "Fianna Walker",
+    "height": 68,
+    "weight": 217,
+    "age": 39,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 236,
+    "name": "Amelie Martinez",
+    "height": 65,
+    "weight": 167,
+    "age": 49,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 237,
+    "name": "Renata",
+    "height": 56,
+    "weight": 135,
+    "age": 28,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 238,
+    "name": "Emma",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 239,
+    "name": "Rhea",
+    "height": 53,
+    "weight": 95,
+    "age": 25,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 240,
+    "name": "Harlow",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 15",
+    "direction": "Neutral"
+  },
+  {
+    "rental_equipment_uid": 241,
+    "name": "Gabriel",
+    "height": 60,
+    "weight": 150,
+    "age": 32,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 242,
+    "name": "Harlow",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "9 & 9",
+    "direction": "Neutral"
+  },
+  {
+    "rental_equipment_uid": 243,
+    "name": "Tamsin",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 244,
+    "name": "Tavi",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 245,
+    "name": "Elias",
+    "height": 67,
+    "weight": 211,
+    "age": 61,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 246,
+    "name": "Jagger",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 247,
+    "name": "Io",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 248,
+    "name": "Maren",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 249,
+    "name": "Whitney",
+    "height": 71,
+    "weight": 193,
+    "age": 63,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 250,
+    "name": "Leonardo",
+    "height": 53,
+    "weight": 116,
+    "age": 25,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 251,
+    "name": "Logan",
+    "height": 65,
+    "weight": 120,
+    "age": 34,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 252,
+    "name": "Tavi",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "12 & 12",
+    "direction": "Neutral"
+  },
+  {
+    "rental_equipment_uid": 253,
+    "name": "Marius",
+    "height": 66,
+    "weight": 198,
+    "age": 59,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 254,
+    "name": "Nova",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "12 & 12",
+    "direction": "Neutral"
+  },
+  {
+    "rental_equipment_uid": 255,
+    "name": "Quade Patel",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 256,
+    "name": "Jacob",
+    "height": 55,
+    "weight": 120,
+    "age": 25,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 257,
+    "name": "Samantha",
+    "height": 65,
+    "weight": 141,
+    "age": 48,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 258,
+    "name": "Oisin",
+    "height": 55,
+    "weight": 118,
+    "age": 31,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 259,
+    "name": "Rio",
+    "height": 66,
+    "weight": 181,
+    "age": 53,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 260,
+    "name": "Greyson Phillips",
+    "height": 66,
+    "weight": 201,
+    "age": 40,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 261,
+    "name": "Sasha",
+    "height": 56,
+    "weight": 163,
+    "age": 23,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 262,
+    "name": "Dante",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 263,
+    "name": "Thalia",
+    "height": 55,
+    "weight": 93,
+    "age": 28,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 264,
+    "name": "Amelia",
+    "height": 67,
+    "weight": 169,
+    "age": 51,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 265,
+    "name": "Maria",
+    "height": 74,
+    "weight": 175,
+    "age": 66,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 266,
+    "name": "Scout",
+    "height": 64,
+    "weight": 170,
+    "age": 37,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 267,
+    "name": "Anaya",
+    "height": 58,
+    "weight": 133,
+    "age": 35,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 268,
+    "name": "Iman",
+    "height": 59,
+    "weight": 114,
+    "age": 33,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 269,
+    "name": "Gideon",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 270,
+    "name": "Vance",
+    "height": 63,
+    "weight": 158,
+    "age": 47,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 271,
+    "name": "Joseph",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 272,
+    "name": "Darian",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 273,
+    "name": "Yvette",
+    "height": 59,
+    "weight": 121,
+    "age": 32,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 274,
+    "name": "Mustafa",
+    "height": 54,
+    "weight": 119,
+    "age": 21,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 275,
+    "name": "Penelope",
+    "height": 65,
+    "weight": 116,
+    "age": 36,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 276,
+    "name": "Greyson",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 277,
+    "name": "Emily",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 278,
+    "name": "Roan",
+    "height": 60,
+    "weight": 165,
+    "age": 39,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 279,
+    "name": "Cosmo",
+    "height": 69,
+    "weight": 140,
+    "age": 65,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 280,
+    "name": "Kaya",
+    "height": 57,
+    "weight": 125,
+    "age": 35,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 281,
+    "name": "Porter",
+    "height": 65,
+    "weight": 133,
+    "age": 47,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 282,
+    "name": "Umaiza",
+    "height": 51,
+    "weight": 109,
+    "age": 16,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 283,
+    "name": "Omar",
+    "height": 67,
+    "weight": 189,
+    "age": 53,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 284,
+    "name": "Elias",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "12 & 12",
+    "direction": "Neutral"
+  },
+  {
+    "rental_equipment_uid": 285,
+    "name": "Hattie",
+    "height": 64,
+    "weight": 138,
+    "age": 39,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 286,
+    "name": "Audrey",
+    "height": 57,
+    "weight": 99,
+    "age": 23,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 287,
+    "name": "Sofia",
+    "height": 66,
+    "weight": 206,
+    "age": 59,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 288,
+    "name": "Balthazar Davis",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Regular"
+  },
+  {
+    "rental_equipment_uid": 289,
+    "name": "Nia",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 9",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 290,
+    "name": "Nova",
+    "height": 67,
+    "weight": 181,
+    "age": 45,
+    "release_preference": "III",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 291,
+    "name": "Malika Lee",
+    "height": 72,
+    "weight": 207,
+    "age": 49,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 292,
+    "name": "Viola",
+    "height": 53,
+    "weight": 146,
+    "age": 24,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 293,
+    "name": "Galen",
+    "height": 77,
+    "weight": 230,
+    "age": 85,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 294,
+    "name": "Quinlan",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Goofy"
+  },
+  {
+    "rental_equipment_uid": 295,
+    "name": "Balthazar",
+    "height": 60,
+    "weight": 165,
+    "age": 38,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 296,
+    "name": "Alessia",
+    "height": 59,
+    "weight": 154,
+    "age": 31,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 297,
+    "name": "Ruby",
+    "height": 70,
+    "weight": 204,
+    "age": 46,
+    "release_preference": "II",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 298,
+    "name": "Benoit",
+    "height": 62,
+    "weight": 127,
+    "age": 38,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 299,
+    "name": "Yara",
+    "height": 75,
+    "weight": 251,
+    "age": 63,
+    "release_preference": "I",
+    "angle_settings": "",
+    "direction": ""
+  },
+  {
+    "rental_equipment_uid": 300,
+    "name": "Layla",
+    "height": "",
+    "weight": "",
+    "age": "",
+    "release_preference": "",
+    "angle_settings": "15 & 6",
+    "direction": "Regular"
+  }
+]

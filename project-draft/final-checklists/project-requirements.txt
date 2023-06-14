@@ -1,0 +1,128 @@
+Project Requirements
+
+A. App Content and HTML Structure
+
+1.  Project built using create-react-app in the root of the repo. Cleaned up extraneous files
+2.  Specified meta data in HTML (title, author, description, and own favicon)
+3.  Includes sufficient content (e.g., multiple views of the data)
+4.  Includes header element (with app name) and footer (with copyright) elements
+5.  Includes 3+ images or media content
+6.  Includes a form element
+
+
+B. React Components and Structure
+
+1.  App is broken up into a meaningful component hierarchy; each component reflects a "part" of the page
+2.  Components are appropriately sized and scoped around data props
+3.  Components are defined as self-contained entities
+4.  Data is passed through the app via props to components; props and state are appropriately distinguished.
+5.  Content is only rendered on through components—no DOM calls!
+
+
+C. React Interactivity
+
+1.  App has 2.5 interactive features.
+	a.  Features involve new, project-specific code
+	b.  Features are complete user interactions
+	c.  Features are unified
+
+2.  Features are interactive and state-based.
+	a.  Features respond to different user inputs (one of which is a form)
+	b.  Interactions both read and write to state variables
+	c.  Interactions are visible in the page (not just console log); they change displayed content depending on user input
+	d.  Features provide interaction via the event-state-render cycle.
+
+3.  State information is stored at appropriate levels (in the "lowest common ancestor")
+
+4.  Interaction is pleasant and frictionless:
+	a.  Interactions are discoverable (include instructions)
+	b.  Interactions provide feedback, including on errors—particularly for Firebase
+
+
+D. Client-Side Routing and Navigation
+
+1.  Correctly integrates react-router (specifying <Route>s, <Link>s, etc).
+2.  Includes sufficient number of routes (3+).
+3.  Includes 1 route with a path parameter.
+4.  Handles incorrect URLs and changes in access (e.g., login/logout) effectively.
+
+
+E. Integrates Another React Library
+
+1.  Project imports another library (included in the package.json list of dependencies).
+2.  App imports external components.
+3.  App renders imported components (they do something).
+4.  App does not mix library and non-library versions of elements (e.g., mixing Bootstrap with react-bootstrap).
+
+
+F. Using External Data
+
+1.  App accesses external data using an event hook
+2.  Sends an AJAX request for external data file
+3.  Uses Promises to handle asynchronous data loading (.then())
+4.  Catches and manages (e.g., displays) errors from data loading (.catch())
+5.  Loaded data is used in some way
+6.  Includes data source citation (if any)
+
+
+C. Site Style and CSS Structure
+
+1.  Loads an external CSS style sheet
+2.  Stylesheet includes sufficient number of rules (20+)
+3.  CSS changes:
+	a.  colors
+	b.  fonts/sizes
+	c.  margins/padding
+4.  Uses flexbox or grid for non-standard layout (via Bootstrap is fine)
+5.  Has a polished appearance
+	a.  readable & navigable
+	b.  consistent
+	c.  clean
+6.  CSS files and libraries are imported through JavaScript
+
+
+G. Accessibility
+
+1.  Uses elements semantically (no <i>; <a> for links, etc)
+2.  Correctly uses sectioning elements (<main>, <section>, etc); not needed if no sections
+3.  Uses hierarchical headings; doesn't skip levels
+4.  Includes alt attributes on all images
+5.  Form includes <label> elements (with for attribute)
+6.  Includes aria-label and role attributes when necessary (and only when necessary!)
+7.  Colors have sufficient contrast
+
+
+H. Clean Coding Style
+
+1.  Organized files in repo
+2.  Valid HTML
+	a.  No invalid usage
+	b.  No redundant elements
+	c.  Clean and consistent indentation
+3.  Well-designed CSS
+	a.  Informative class names
+	b.  Effective selectors (e.g., no id selectors)
+	c.  No inappropriate duplication of rules
+	d.  Organized in file, with comments to "group" sets of rules
+4.  Well-written JavaScript
+	a.  Informative variable and function names
+	b.  Uses let and const instead of var
+	c.  Functions avoid side effects (pure-ish)
+	d.  Sensible variables and data types (especially arrays vs. objects)
+	e.  Remove extraneous console.log calls
+5.  Correct and idiomatic usage of React framework
+6.  Uses well-scoped and informatively-named function components and hooks
+7.  Does not define functions (including inline .map()) inside of a return statement or inline expression!
+8.  Includes comments if and only if necessary for understanding the code.
+9.  Running app does not present any errors or warnings in the developer console.
+10. Follows all the guidelines in the course text style guideLinks to an external site..
+
+
+I. Submitting the Project
+
+1. Confirm that the project is complete
+2. Tag Final Commit
+3. Deploy Web Page
+4. Submit Peer Evaluation
+[DONE] 5. Submit to Canvas
+

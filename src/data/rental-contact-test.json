@@ -1,0 +1,62 @@
+[
+  {
+    "rental_contact_id": 1,
+    "last_name": "Johansson",
+    "first_name": "Emma",
+    "phone_number": "(206) 678-9012",
+    "email_address": "james@gmail.com",
+    "drivers_license_no": "WDL-921-18-3633",
+    "street": "7475 Ash Way",
+    "city": "Mukilteo",
+    "state": "WA",
+    "zip_code": 98037
+  },
+  {
+    "rental_contact_id": 2,
+    "last_name": "Ali",
+    "first_name": "Omar",
+    "phone_number": "(206) 765-4321",
+    "email_address": "lisa@hotmail.com",
+    "drivers_license_no": "WDL-573-20-3417",
+    "street": "1415 Maple St",
+    "city": "Mukilteo",
+    "state": "WA",
+    "zip_code": 98155
+  },
+  {
+    "rental_contact_id": 3,
+    "last_name": "Carter",
+    "first_name": "Gabriel",
+    "phone_number": "(206) 234-9012",
+    "email_address": "michael@yahoo.com",
+    "drivers_license_no": "WDL-840-71-8221",
+    "street": "9495 Walnut Blvd",
+    "city": "Shoreline",
+    "state": "WA",
+    "zip_code": 98133
+  },
+  {
+    "rental_contact_id": 4,
+    "last_name": "Henderson",
+    "first_name": "Ethan",
+    "phone_number": "(425) 876-5432",
+    "email_address": "sara@outlook.com",
+    "drivers_license_no": "WDLF290831944",
+    "street": "2021 Hemlock St",
+    "city": "Mountlake Terrace",
+    "state": "WA",
+    "zip_code": 98036
+  },
+  {
+    "rental_contact_id": 5,
+    "last_name": "Khan",
+    "first_name": "Muhammad",
+    "phone_number": "(971) 329-6481",
+    "email_address": "jason@gmail.com",
+    "drivers_license_no": "WDLE904099986",
+    "street": "7677 Fir Way",
+    "city": "Lynnwood",
+    "state": "WA",
+    "zip_code": 98177
+  }
+]
