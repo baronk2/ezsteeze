@@ -1,6 +1,7 @@
 # INFO 340 Project
 
 Live Firebase-Hosted Link:
+
 https://ezsteeze-1e6b7.web.app/home
 
 This repository contains code for an interactive information web app, created for the _INFO 340: Client-Side Web Development_ course at the UW iSchool in Spring 2023.
