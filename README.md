@@ -1,5 +1,8 @@
 # INFO 340 Project
 
+Live Firebase-Hosted Link:
+https://ezsteeze-1e6b7.web.app/home
+
 This repository contains code for an interactive information web app, created for the _INFO 340: Client-Side Web Development_ course at the UW iSchool in Spring 2023.
 
 The website is a React app called "ezSteeze" which allows users to select a time to be scheduled for a rental appointment at Play It Again Sports in Lynnwood, WA.
